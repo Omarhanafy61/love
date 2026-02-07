@@ -148,7 +148,5 @@ setInterval(function(){
     setTimeout(()=>heart.remove(),6000);
 },300);
 </script>
-</html>
-
 </body>
 </html>
